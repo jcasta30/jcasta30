@@ -2,8 +2,8 @@
 - An alumnus of Metropolitan State University of Denver, with an earned bachelors degree in Computer Science.
 - I have mostly worked in Python, Java, HTML, CSS, and have expsoure to Django, React, and SQL. 
 - Although, I am hopeful to keep on learning and better my skills and knowledge!
-- Check out some projects I have worked on such as a project called _SpilledCoffee_ and another called _onestopbooks_.
-- These were both projects for two different CS courses.
+- Check out some projects I have worked on, such as, a project called _SpilledCoffee_ and another called _onestopbooks_.
+- These were both projects from two different CS courses I accomplished.
 
 
 <!---
